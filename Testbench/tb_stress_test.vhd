@@ -1,6 +1,4 @@
 
--- TB EXAMPLE PFRL 2022-2023
-
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 USE ieee.numeric_std.ALL;
